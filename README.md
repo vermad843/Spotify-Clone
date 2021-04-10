@@ -14,10 +14,10 @@
 
 [x] Entire React Tech Stack
 
-[x] Client ID 6982637b5a9c40278ff6f530c1fc2cf7
+[x] Client ID  - 6982637b5a9c40278ff6f530c1fc2cf7
 
 [x] https://developer.spotify.com/ 
 
 [x] Spotify logo - "https://getheavy.com/wp-content/uploads/2019/12/spotify2019-830x350.jpg"
 
-[x] 
+[x] https://developer.spotify.com/documentation/web-playback-sdk/quick-start/#
